@@ -26,3 +26,14 @@ on my [blog](https://blog.bwinterton.com) if you want to follow along there!
 ## Resources
 I have documented the resources that I found useful along the way in 
 [`resources.md`](resources.md).
+
+## License
+I want to make sure that any content that I create here can be used by anyone
+in their learning process however they see fit. As such, everything found in
+this repository is licensed under the GPL v3 License. 
+
+Copyright (C) 2017 Brayden Winterton
+
+Please note: Any content linked to by this repository (such as the resources
+found in `resources.md`) is under it's own individual license as assigned by
+the author. 
